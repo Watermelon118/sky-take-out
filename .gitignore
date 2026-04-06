@@ -1,0 +1,7 @@
+.git-backup/
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+.history/
