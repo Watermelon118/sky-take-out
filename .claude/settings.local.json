@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Users/shuai/Desktop/skytower_takeaway remote -v)"
+    ]
+  }
+}
